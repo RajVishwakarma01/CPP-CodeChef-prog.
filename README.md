@@ -1,1 +1,1 @@
-# CodeChef-prog.
+# CodeChef-prog. (c++)
